@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dime-online/catboard/main/assets/hero-mobile.f874c4d1.svg" />
-    <img src="assets/hero.d92735e1.svg" width="100%" alt="Catboard — voice-cloning soundboard for any voice chat. Every inside joke, one keypress away." />
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dime-online/catboard/main/assets/hero-mobile.f549a03b.svg" />
+    <img src="assets/hero.98899f80.svg" width="100%" alt="Catboard — voice-cloning soundboard for any voice chat. Every inside joke, one keypress away." />
   </picture>
   <br /><br />
   <img src="https://img.shields.io/badge/closed%20beta-907AFF?style=for-the-badge" alt="closed beta" />
