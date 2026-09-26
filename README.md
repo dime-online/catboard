@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dime-online/catboard/main/assets/hero-mobile.svg" />
-    <img src="assets/hero.svg" width="100%" alt="Catboard — voice-cloning soundboard for any voice chat. Every inside joke, one keypress away." />
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dime-online/catboard/main/assets/hero-mobile.67247b71.svg" />
+    <img src="assets/hero.50e0c45d.svg" width="100%" alt="Catboard — voice-cloning soundboard for any voice chat. Every inside joke, one keypress away." />
   </picture>
   <br /><br />
   <img src="https://img.shields.io/badge/closed%20beta-907AFF?style=for-the-badge" alt="closed beta" />
@@ -14,8 +14,8 @@
 ### Two ways to use a voice
 
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dime-online/catboard/main/assets/modes-mobile.svg" />
-  <img src="assets/modes.svg" width="100%" alt="Soundboard, rendered clips: type a line, get a clip in that voice, keep it on a pad, fire it with one key. Live, real time, in testing: talk, and the lobby hears the voice as you speak." />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dime-online/catboard/main/assets/modes-mobile.de54797a.svg" />
+  <img src="assets/modes.f2264610.svg" width="100%" alt="Soundboard, rendered clips: type a line, get a clip in that voice, keep it on a pad, fire it with one key. Live, real time, in testing: talk, and the lobby hears the voice as you speak." />
 </picture>
 
 ### Also on board
