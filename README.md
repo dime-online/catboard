@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dime-online/catboard/main/assets/hero-mobile.92a45e8c.svg" />
-    <img src="assets/hero.27e7efdb.svg" width="100%" alt="Catboard — voice-cloning soundboard for any voice chat. Every inside joke, one keypress away." />
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dime-online/catboard/main/assets/hero-mobile.cc332939.svg" />
+    <img src="assets/hero.7e7ea309.svg" width="100%" alt="Catboard — voice-cloning soundboard for any voice chat. Every inside joke, one keypress away." />
   </picture>
   <br /><br />
   <img src="https://img.shields.io/badge/closed%20beta-907AFF?style=for-the-badge" alt="closed beta" />
@@ -12,8 +12,8 @@
 <br />
 
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dime-online/catboard/main/assets/app-mobile.4206368d.svg" />
-  <img src="assets/app.e59a0668.svg" width="100%" alt="The Catboard app: a list of voices on the left, a board of twelve pads with a line of text and a hotkey on each, and a box to type something new to say." />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dime-online/catboard/main/assets/app-mobile.2ce7b68e.svg" />
+  <img src="assets/app.9b1bc7fd.svg" width="100%" alt="The Catboard app in action: a new line is typed into an empty pad and turned into a clip, pads fire from their hotkeys, and switching voices brings up that voice's own board." />
 </picture>
 
 ### Two ways to use a voice
