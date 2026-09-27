@@ -12,8 +12,8 @@
 <br />
 
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dime-online/catboard/main/assets/app-mobile.2ce7b68e.svg" />
-  <img src="assets/app.9b1bc7fd.svg" width="100%" alt="The Catboard app in action: a new line is typed into an empty pad and turned into a clip, pads fire from their hotkeys, and switching voices brings up that voice's own board." />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dime-online/catboard/main/assets/app-mobile.5076ef0e.svg" />
+  <img src="assets/app.9ee8e1d8.svg" width="100%" alt="The Catboard app in action: a new line is typed into an empty pad and turned into a clip, pads fire from their hotkeys, and switching voices brings up that voice's own board." />
 </picture>
 
 ### Two ways to use a voice
